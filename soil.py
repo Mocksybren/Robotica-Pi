@@ -4,5 +4,3 @@ import time
 
 
 GPIO
-
-gpio
